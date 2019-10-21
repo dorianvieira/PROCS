@@ -1,0 +1,3 @@
+Voiture <B>$voiture.immatriculation</B><BR/>
+modèle: $voiture.modele<BR/>
+propriétaire: $voiture.proprietaire
